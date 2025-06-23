@@ -117,8 +117,4 @@ test.log(Status.INFO, "Action Description").addScreenCaptureFromPath(screenshotP
 - **Name**: Anik Mitra
 - **Email**: anikmitradell@gmail.com
 
----
 
-## License
-
-This project is provided for educational and professional demonstration purposes.
